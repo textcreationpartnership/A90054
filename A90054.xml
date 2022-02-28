@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration and svmmons sent by the Earl of Newcastle, to the town of Manchester, to lay down their arms. With the resolute answer of the commanders in chief, and souldiers in Manchester, to spend their blood for the honour of the King, the Protestant religion, and the priviledges of Parliament, against the papists and malignants now under his lordships command.</title>
+            <title>Declaration and summons sent by the Earl of Newcastle to the town of Manchester.</title>
+            <author>Newcastle, William Cavendish, Duke of, 1592-1676.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90054</idno>
+            <idno type="STC">Wing N878</idno>
+            <idno type="STC">Thomason E60_14</idno>
+            <idno type="EEBO-CITATION">99871815</idno>
+            <idno type="PROQUEST">99871815</idno>
+            <idno type="VID">155327</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90054)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155327)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 11:E60[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration and svmmons sent by the Earl of Newcastle, to the town of Manchester, to lay down their arms. With the resolute answer of the commanders in chief, and souldiers in Manchester, to spend their blood for the honour of the King, the Protestant religion, and the priviledges of Parliament, against the papists and malignants now under his lordships command.</title>
+                  <title>Declaration and summons sent by the Earl of Newcastle to the town of Manchester.</title>
+                  <author>Newcastle, William Cavendish, Duke of, 1592-1676.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Peter Cole, and are to be sold at the Glove in Cornhill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>July 15, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Manchester (England) --  History, Military --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155327:1" rendition="simple:additions"/>
+            <p>A DECLARATION AND SVMMONS Sent by the Earl of <hi>Newcaſtle,</hi> to the Town of <hi>Mancheſter,</hi> to lay down their Arms.</p>
+            <p>
+               <hi>With the Reſolute</hi> ANSWER of the Commanders in chief, and Souldiers in MANCHESTER, To ſpend their blood for the honour of the King, the Proteſtant Religion, and Priviledges of Parliament, againſt the Papiſts and Malignants how under his Lordſhips command.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Imprimatur,</p>
+                        <closer>
+                           <signed>John White.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>London, Printed for <hi>Peter Cole,</hi> and are to be ſold at the Glove in <hi>Co<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nhill.</hi> July 15. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:155327:2"/>
+            <pb n="3" facs="tcp:155327:2"/>
+            <head>A Declaration and Summons ſent by the Earl of <hi>Newcaſtle,</hi> to the Town of <hi>Mancheſter</hi> to lay downe their Armes, &amp;c.</head>
+            <p>
+               <hi>I</hi> Preſume you are not ignorant of the ſucceſſe it hath pleaſed Almighty God to give unto His Majeſties Army under my Command, and the great de<g ref="char:EOLhyphen"/>ſire J have to avoyd the effuſion of Chri<g ref="char:EOLhyphen"/>ſtian bloud, which moves me before J pro<g ref="char:EOLhyphen"/>ceed any further towards you, to make you an offer of His Majeſties Grace and Mercy, if you will ſubmit your ſelves,
+<pb n="4" facs="tcp:155327:3"/>
+lay downe your Armes, ſo unjuſtly taken up in contempt of the Lawes of this Kingdome, and immediately returne to your due Allegiance, His Majeſty is gratiouſly pleaſed to authorize me, to re<g ref="char:EOLhyphen"/>ceive you into His Favour and Prote<g ref="char:EOLhyphen"/>ction, which J am as willing to do, as to inforce your obedience; if you will refuſe J cannot but wonder, while you fight a<g ref="char:EOLhyphen"/>gainſt the King and His Authority, you ſhould ſo boldly offer to Profeſſe your ſelves for King and Parliament, and moſt ignominiouſly ſcandalize this Army with the Title of Papiſts, when we ven<g ref="char:EOLhyphen"/>ture our Lives and Fortunes for the true Proteſtant Religion eſtabliſhed in this Kingdome: Be no longer deceived, for the bloud that ſhall be ſhed in this quar<g ref="char:EOLhyphen"/>rell will aſſuredly fall on your own heads; J have no other ends in this, but to let you
+<pb n="5" facs="tcp:155327:3"/>
+ſee your error, if you pleaſe; for my con<g ref="char:EOLhyphen"/>dition is ſuch, that <hi>I</hi> need not Court you; Jf not, let me receive your anſwers by this Meſſenger, and you may expect to find little favour, (if you force my nature) but ſuch as is due to ſo high Contemners of His Majeſties Grace and Favour, now offered to you by</p>
+            <closer>
+               <signed>W: NEWCASTLE.</signed>
+               <dateline>Bradford. <date>5. July. 1643.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="part">
+            <pb n="6" facs="tcp:155327:4"/>
+            <head>Mancheſters Anſwer.</head>
+            <opener>
+               <salute>Right Honorable;</salute>
+            </opener>
+            <p>IT hath been ever ſince the firſt fo<g ref="char:EOLhyphen"/>menting of the unhappy differences in this Kingdom, and ſo, ſhall be our principall care and endeavour to pre<g ref="char:EOLhyphen"/>ſerve the true Proteſtant Religion by Law eſtabliſhed in this Realm, the Ho<g ref="char:EOLhyphen"/>nour of the King in all Regall Rights, and Prerogatives, and Priviledges of Parliament, and the true and Native Liberties, and Priviledges of the Sub<g ref="char:EOLhyphen"/>ject by Law eſtabliſhed; And then it is not to be wondred at, that having been oppreſſ'd by Papiſts, and other Malig<g ref="char:EOLhyphen"/>nants, we have by defenſive Arms, la<g ref="char:EOLhyphen"/>boured
+<pb n="7" facs="tcp:155327:4"/>
+to repell ſuch as by colour of His Majeſties Commiſsion, have en<g ref="char:EOLhyphen"/>deavoured to overthrow Religion, His Majeſties Regall Rights, and Honour, with all the immunities of this King<g ref="char:EOLhyphen"/>dom, in the preſervation whereof, His Majeſties noble Progenitors have ſo long and honourably flouriſhed; By which we hope it is apparent to all in<g ref="char:EOLhyphen"/>different, judicious, and religious peo<g ref="char:EOLhyphen"/>ple, that we have not put our ſelves out of His Majeſties protection, nor cannot poſsibly enter into our underſtanding, that the true Proteſtant Religion can<g ref="char:EOLhyphen"/>not be intended to be defended by ſo great a company of Papiſts, as have been, and now are in Arms under ſuch protection; Nor the Propriety of the Subject, by ſo many Aliens, and other Malefactors as daily reſort unto them;
+<pb n="8" facs="tcp:155327:5"/>
+And we could wiſh ſo honorable a per<g ref="char:EOLhyphen"/>ſon as your ſelf might be ſeperated, and freed from protecting ſuch Delin<g ref="char:EOLhyphen"/>quents.</p>
+            <p>Sir, we are nothing diſmayed at your force, but hope that God, who hath been our protector hitherto, will ſo di<g ref="char:EOLhyphen"/>rect our juſt Army, that we ſhall be a<g ref="char:EOLhyphen"/>ble to return the violence intended, into their boſomes that ſhall aſſay the proſe<g ref="char:EOLhyphen"/>cution of it, which ſhall be the endea<g ref="char:EOLhyphen"/>vour of</p>
+            <closer>
+               <signed>His Majesties moſt Humble and Obedient Subjects.</signed>
+               <dateline>Rochdale, <date>7. July, 1643.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
